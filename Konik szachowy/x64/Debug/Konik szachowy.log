@@ -1,0 +1,4 @@
+﻿  Konik szachowy.cpp
+C:\Users\Admin\source\repos\lalala\Algorytm konika szachowego(poprawiony)\Konik szachowy\Konik szachowy.cpp(152,18): warning C4101: "j": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Admin\source\repos\lalala\Algorytm konika szachowego(poprawiony)\Konik szachowy\Konik szachowy.cpp(152,15): warning C4101: "i": lokalna zmienna, do której nie istnieje odwołanie
+  Konik szachowy.vcxproj -> C:\Users\Admin\source\repos\lalala\Algorytm konika szachowego(poprawiony)\x64\Debug\Konik szachowy.exe
